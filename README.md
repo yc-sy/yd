@@ -1,1 +1,1 @@
-[书源合集 - 一键导入](http://www.baidu.com?wd=yuedu://booksource/importonline?src=https://code.gitlink.org.cn/yi-c/yd/raw/branch/master/sy.json)
+[书源合集 - 一键导入](yuedu://booksource/importonline?src=https://code.gitlink.org.cn/yi-c/yd/raw/branch/master/sy.json)
