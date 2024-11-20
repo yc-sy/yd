@@ -26,9 +26,41 @@
 ## ▶️ 教程
 * [添加规则订阅教程](https://b23.tv/RQSlzA2)
 <details><summary>书源导入教程</summary>
+⒈复制书源网络导入链接<br>
+⒉打开阅读APP<br>
+<img src="" width="270"><br>
+⒊点击我的头像，再点书源管理<br>
+<img src="" width="270"><br>
+⒋点击右上角┇<br>
+<img src="" width="270"><br>
+⒌选择网络导入<br>
+<img src="" width="270"><br>
+⒍粘贴书源链接，再点确定<br>
+<img src="" width="270"><br>
+⒎点击左下角全选，再点确认<br>
+<img src="" width="270"><br>
+
 </details>
 
+<a href="#readme">
+    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
+</a>
+
 <details><summary>订阅导入教程</summary>
+⒈复制订阅网络导入链接<br>
+⒉打开阅读APP<br>
+<img src="" width="270"><br>
+⒊点击订阅图标，再点右上角⚙️图标<br>
+<img src="" width="270"><br>
+⒋点击右上角┇<br>
+<img src="" width="270"><br>
+⒌选择网络导入<br>
+<img src="" width="270"><br>
+⒍粘贴订阅链接，再点确定<br>
+<img src="" width="270"><br>
+⒎点击左下角全选，再点确认<br>
+<img src="" width="270"><br>
+
 </details>
 
 <a href="#readme">
@@ -43,3 +75,6 @@
 * 本站所有内容仅供交流学习，检索完请立刻删除，请发现本站的书友不要传播。
 * 本站支持正版，请去官方网站支持正版书籍以及作者。
 * 本站所有资料内容不涉及任何交易，涉及任何RMB交易的都是骗子，请谨慎甄别。
+<a href="#readme">
+    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
+</a>
