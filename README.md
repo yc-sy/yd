@@ -19,10 +19,6 @@
 ## 💠 建议
 * 建议删除旧书源再导入最新书源
 
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
-</a>
-
 ## ▶️ 教程
 * [添加规则订阅教程](https://b23.tv/RQSlzA2)
 <details><summary>书源导入教程</summary>
@@ -39,12 +35,7 @@
 <img src="" width="270"><br>
 ⒎点击左下角全选，再点确认<br>
 <img src="" width="270"><br>
-
 </details>
-
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
-</a>
 
 <details><summary>订阅导入教程</summary>
 ⒈复制订阅网络导入链接<br>
@@ -60,12 +51,7 @@
 <img src="" width="270"><br>
 ⒎点击左下角全选，再点确认<br>
 <img src="" width="270"><br>
-
 </details>
-
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
-</a>
 
 ## ♾️ 相关
 * [源仓库 - 书源网站](http://www.yck2.com/)
@@ -75,6 +61,3 @@
 * 本站所有内容仅供交流学习，检索完请立刻删除，请发现本站的书友不要传播。
 * 本站支持正版，请去官方网站支持正版书籍以及作者。
 * 本站所有资料内容不涉及任何交易，涉及任何RMB交易的都是骗子，请谨慎甄别。
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
-</a>
