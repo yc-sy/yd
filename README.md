@@ -32,7 +32,7 @@
 ⒌选择网络导入<br>
 <img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/sy5.png" width="270"><br>
 ⒍粘贴书源链接，再点确定<br>
-<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/sy.6png" width="270"><br>
+<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/sy6.png" width="270"><br>
 ⒎点击左下角全选，再点确认<br>
 <img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/sy7.png" width="270"><br>
 </details>
