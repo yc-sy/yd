@@ -26,15 +26,15 @@
 ⒉打开阅读APP<br>
 <img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/yd.png" width="270"><br>
 ⒊点击我的头像，再点书源管理<br>
-<img src="" width="270"><br>
+<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/sy3.png" width="270"><br>
 ⒋点击右上角┇<br>
-<img src="" width="270"><br>
+<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/sy4.png" width="270"><br>
 ⒌选择网络导入<br>
-<img src="" width="270"><br>
+<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/sy5.png" width="270"><br>
 ⒍粘贴书源链接，再点确定<br>
-<img src="" width="270"><br>
+<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/sy.6png" width="270"><br>
 ⒎点击左下角全选，再点确认<br>
-<img src="" width="270"><br>
+<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/sy7.png" width="270"><br>
 </details>
 
 <details><summary>订阅导入教程</summary>
@@ -42,15 +42,15 @@
 ⒉打开阅读APP<br>
 <img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/yd.png" width="270"><br>
 ⒊点击订阅图标，再点右上角⚙️图标<br>
-<img src="" width="270"><br>
+<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/dy3.png" width="270"><br>
 ⒋点击右上角┇<br>
-<img src="" width="270"><br>
+<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/dy4.png" width="270"><br>
 ⒌选择网络导入<br>
-<img src="" width="270"><br>
+<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/dy5.png" width="270"><br>
 ⒍粘贴订阅链接，再点确定<br>
-<img src="" width="270"><br>
+<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/dy6.png" width="270"><br>
 ⒎点击左下角全选，再点确认<br>
-<img src="" width="270"><br>
+<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/dy7.png" width="270"><br>
 </details>
 
 ## ♾️ 相关
