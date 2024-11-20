@@ -24,7 +24,7 @@
 <details><summary>书源导入教程</summary>
 ⒈复制书源网络导入链接<br>
 ⒉打开阅读APP<br>
-<img src="" width="270"><br>
+<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/yd.png" width="270"><br>
 ⒊点击我的头像，再点书源管理<br>
 <img src="" width="270"><br>
 ⒋点击右上角┇<br>
@@ -40,7 +40,7 @@
 <details><summary>订阅导入教程</summary>
 ⒈复制订阅网络导入链接<br>
 ⒉打开阅读APP<br>
-<img src="" width="270"><br>
+<img src="https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/jc/yd.png" width="270"><br>
 ⒊点击订阅图标，再点右上角⚙️图标<br>
 <img src="" width="270"><br>
 ⒋点击右上角┇<br>
