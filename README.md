@@ -7,12 +7,12 @@
 
 ## 📚 书源
 > `书源合集`
-> * [点此一键导入](yuedu://booksource/importonline?src=)
+> * [点此一键导入](yuedu://booksource/importonline?src=https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/sy.json)
 > * 2024年12月？日`星期？`
 
 ## 🗃 订阅
 > `订阅合集`
-> * [点此一键导入](yuedu://booksource/importonline?src=)
+> * [点此一键导入](yuedu://booksource/importonline?src=https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/dy.json)
 > * 2024年12月13日`星期五`
 
 ## 💠 建议
@@ -53,7 +53,7 @@
 </details>
 
 ## ♾️ 相关
-* [源仓库 - 书源网站](http://www.yck2.com/)
+* [源仓库 - 书源网站](https://www.yckceo.com/)
 * [开源阅读（安卓版）](https://github.com/gedoor/legado/releases)
 * [开源阅读（鸿蒙版）](https://github.com/mgz0227/legado-Harmony)
 
