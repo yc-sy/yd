@@ -7,13 +7,9 @@
 
 ## 📚 书源
 > `书源合集`
-> * [点此一键导入](yuedu://booksource/importonline?src=https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/sy.json)
-> * 2024年12月？日`星期？`
 
 ## 🗃 订阅
 > `订阅合集`
-> * [点此一键导入](yuedu://booksource/importonline?src=https://raw.githubusercontent.com/yc-sy/yd/refs/heads/master/dy.json)
-> * 2024年12月13日`星期五`
 
 ## 💠 建议
 * 建议删除旧书源再导入最新书源
